@@ -43,6 +43,7 @@ class Dog implements Animal {
  *       * You cannot create object of interface. They are just a blueprint of a class.
  *       * Use implements keyword
  *       * They can only contain abstract methods.
+ *       * Java 8 onwards we can have methods with body within interface (i.e. we can have static as well as default methods).
  *
  *       1. For Methods
  *           * They are public and abstract
